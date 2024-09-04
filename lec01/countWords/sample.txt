@@ -1,0 +1,19 @@
+In the land of code, where logic does reign,
+Java stands tall, clear and plain.
+Objects and classes, methods that call,
+Inheritance links them all.
+
+With Scanner in hand, we parse the text,
+String.split() to slice what's next.
+Command lines guide the program's flow,
+In Java's world, the possibilities grow.
+
+Loops and conditions, decisions we make,
+Java compiles with every mistake.
+From "Hello, World!" to complex arrays,
+Coding in Java brightens our days.
+
+So write your code, let functions thrive,
+In Java's realm, the programs come alive.
+Debug, compile, then run with pride,
+For in Java, there's no bug to hide.
